@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://siekaelae.createopen.com/sitemap.xml
